@@ -1,2 +1,2 @@
 # Analytics_GC
-This repository contains my code and approach on predicting stock price data.
+This repository contains my and my teammate Prithvi Kewalramani's solution to predicting stock price data.
